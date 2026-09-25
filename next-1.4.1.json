@@ -1,0 +1,7 @@
+{
+  "version": "1.4.1",
+  "version_code": 1004001,
+  "status": "awaiting_signed_apk",
+  "expected_asset_name": "Selah_Events_v1.4.1_signed_release.apk",
+  "notes": "Live Windows ↔ Android Supabase sync: Realtime change signals plus canonical re-fetch, 5-second polling fallback, offline queue, and live staff permission/profile refresh."
+}
