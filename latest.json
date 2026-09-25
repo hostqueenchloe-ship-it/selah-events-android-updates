@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "version_code": 1003007,
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.3.7/Selah_Events_v1.3.7_signed_release.apk",
-  "notes": "Android update system added. Includes GitHub update checking, existing Cloud Sync, mobile UI improvements, and calendar swipe support."
+  "version": "1.4.1",
+  "version_code": 1004001,
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.1/app-universal-release.apk",
+  "notes": "Windows ↔ Android live shared sync via Supabase. Includes Realtime change notifications, canonical cloud re-fetch, 5-second fallback polling, offline queue, and live staff profile/permission refresh."
 }
