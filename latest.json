@@ -1,6 +1,7 @@
 {
-  "version": "1.4.1",
-  "version_code": 1004001,
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.1/app-universal-release.apk",
-  "notes": "Windows ↔ Android live shared sync via Supabase. Includes Realtime change notifications, canonical cloud re-fetch, 5-second fallback polling, offline queue, and live staff profile/permission refresh."
+  "version": "1.4.12",
+  "version_code": 1004012,
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.12/app-universal-release.apk",
+  "notes": "Shows your name and role beside your profile photo. Adds staff access to Settings and App Updates. Tap Download Update, open the downloaded APK, then tap Update / Install. Do not uninstall Selah.",
+  "sha256": "92d503450b538178a1bf172e41c3be2ae3fd5ea7f53a4d2292868997ca070686"
 }
