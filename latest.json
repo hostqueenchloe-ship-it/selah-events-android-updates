@@ -1,7 +1,14 @@
 {
-  "version": "1.4.15",
-  "version_code": 1004015,
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.15/app-universal-release.apk",
-  "notes": "Staff mobile shortcuts, fullscreen Virtual ID, Philippine-date Upcoming Events, Mark as Finished and clearer sync status. Download and install over your current Selah app. Do not uninstall.",
-  "sha256": "a69d0236a03338ade20f82cfeda0391be79d9cc5c7b2671ae550d735daae3317"
+  "version": "1.4.16",
+  "version_code": 1004016,
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.16/app-universal-release.apk",
+  "notes": "Selah 1.4.16 for Windows and Android. Install over your existing app.",
+  "pub_date": "2026-09-27T02:46:30Z",
+  "sha256": "0306ae1444a5c691c7b675aeaad990ef574531d01cf4317369abe7506da32a26",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeHYxWlh6M3RDbE9BYnFaRVdtb3RSS3o4dmpKR2Q1eWhtbVpqZHV2RTRBekN1RWNWRmpFOFh3dnlYZDh3T2wyS28yVXNaWWp2Uy9adDdXaUlTaFcrN1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDc2ODIxCWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMTYKNUNaamJ3eWNLdXl0WWxCbTliTFN4Ui9ObXVXTmxLK1hnMERXYUJESWJRZGtTZ3MrWDg1K0Rpcm1wVVlqTWo3d0VQdDdZZTNsOEVWayttRTJJVmdHQnc9PQo=",
+      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.16/Selah-Events-1.4.16-x64-setup.exe"
+    }
+  }
 }
