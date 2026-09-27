@@ -1,7 +1,7 @@
 {
-  "version": "1.4.12",
-  "version_code": 1004012,
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.12/app-universal-release.apk",
-  "notes": "Shows your name and role beside your profile photo. Adds staff access to Settings and App Updates. Tap Download Update, open the downloaded APK, then tap Update / Install. Do not uninstall Selah.",
-  "sha256": "92d503450b538178a1bf172e41c3be2ae3fd5ea7f53a4d2292868997ca070686"
+  "version": "1.4.15",
+  "version_code": 1004015,
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.15/app-universal-release.apk",
+  "notes": "Staff mobile shortcuts, fullscreen Virtual ID, Philippine-date Upcoming Events, Mark as Finished and clearer sync status. Download and install over your current Selah app. Do not uninstall.",
+  "sha256": "a69d0236a03338ade20f82cfeda0391be79d9cc5c7b2671ae550d735daae3317"
 }
