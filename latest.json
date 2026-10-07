@@ -1,13 +1,13 @@
 {
-  "version": "1.4.19",
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.19/app-universal-release.apk",
-  "notes": "Selah 1.4.19 for Windows and Android. Install over your existing app.",
-  "pub_date": "2026-10-07T04:59:50Z",
-  "sha256": "cf10c391c22e1f512706e422aff8e600eaaa9c4206611100274093cc0fdccd45",
+  "version": "1.4.20",
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.20/app-universal-release.apk",
+  "notes": "Selah 1.4.20 for Windows and Android. Install over your existing app.",
+  "pub_date": "2026-10-07T09:57:24Z",
+  "sha256": "2c18391083e7d9164273187dad1a7c9989baab6fdc0cc92f19c4e4377d260cf2",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeG1GR1ErUElzRGVId09CUUJXN1BsSGNhTXY4d3dKNVlCZHBKSEpUbTV2TzNldnVTTXNTNnVNM3pNNktCRWRLckhSYzVXbGZOM01KcWJOclB6c2xmRVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ4NjIwCWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMTkKekNGNThQRDBDTFNUK3NOcGk4ZmY0NU9RRmxib0lGM21EaFEvMUpKSzRldHp2OVNhaVB3Q3VvOFpJSGYrK0IxUTM3Qno0aG5ybVdLTVVNOTdPcExUQXc9PQo=",
-      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.19/Selah-Events-1.4.19-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeHIwVy8vdzhIVFkwaU5HeDZMOE42RUswd3NSeUFMaXBMOXBnemdsaTBKTUQzVkIyRGtrMW1FOGwrZlNWcU84MnppRlJBbWxrQ2EvV2JHNDdBSzZrMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzY2NTEzCWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjIwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMjAKTUlhc2FWZThBeUhieGFzc3d1WjBsdDlpdHdZbXoyZmQ5anZUVjBzVUVlcDJMQXRFNEdkbXN0WndKWkNZUWwrNExQMk9wdjNpdkwzN1NBSGkzbC9CQ3c9PQo=",
+      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.20/Selah-Events-1.4.20-x64-setup.exe"
     }
   }
 }
