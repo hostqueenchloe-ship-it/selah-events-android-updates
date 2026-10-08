@@ -1,13 +1,13 @@
 {
-  "version": "1.4.21",
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.21/app-universal-release.apk",
-  "notes": "Selah 1.4.21 for Windows and Android. Install over your existing app.",
-  "pub_date": "2026-10-07T15:08:28Z",
-  "sha256": "400aff3951c49164c19b1cd65f1c7c624999587e6cfdcdd93a02d1a0cf1c22a7",
+  "version": "1.4.22",
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.22/app-universal-release.apk",
+  "notes": "Selah 1.4.22 for Windows and Android. Install over your existing app.",
+  "pub_date": "2026-10-08T03:47:47Z",
+  "sha256": "3865cd20604d0f972404994cc86049e61d83fb075655de462226456cdff87313",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeHZpOTU2QW5YNk92WTVwa2c3YlNCUG5maTJtbGxJcWhDTzl4OFhiaW8xZCtIVTFUakxZdk1zZmx0YWRGUFgrZyswNUtZWHEyTzN6VHpXZkV5a0RFckFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzg1MDk0CWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMjEKdXlHUlhURW5La3JqdFd4SW85aUZWSDA0bW9uZ0FzdjZHM3Q3Zk1yUFdhR2t5NUVLYUs3RlNObG4rUnpHaVNyV3hEUGlOYTVzQlVCSkFiOWk3dWwrQUE9PQo=",
-      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.21/Selah-Events-1.4.21-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeGgrLzZTc3VlRUpFd3RTcWdHeUdyTHRsc0J6M2dMR0FPdkRZcnlDeVZraFlNenExejhVQlRra3ROZUxyaWJnWTRKbHk0dGVqWUFGNDhxV2Q1a2RNN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDMwNjU4CWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMjIKOTN1dkhGZStWMGJ1VkNWWmExRElVREZaVW5EUGZpWTFNSTMvc1MrbTdEYnorbFI2Z0hxT09zZmdEemYxaXNnVlp2MlNra0FZMEZSMTNvM3NoMmdyRHc9PQo=",
+      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.22/Selah-Events-1.4.22-x64-setup.exe"
     }
   }
 }
