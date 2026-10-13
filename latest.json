@@ -1,13 +1,13 @@
 {
-  "version": "1.4.22",
-  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.22/app-universal-release.apk",
-  "notes": "Selah 1.4.22 for Windows and Android. Install over your existing app.",
-  "pub_date": "2026-10-08T03:47:47Z",
-  "sha256": "3865cd20604d0f972404994cc86049e61d83fb075655de462226456cdff87313",
+  "version": "1.4.23",
+  "apk_url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.23/app-universal-release.apk",
+  "notes": "Selah 1.4.23: protects unfinished Calendar edits and refreshes shared booking details. Install over your existing app.",
+  "pub_date": "2026-10-13T04:35:02Z",
+  "sha256": "447902d51089f3b9afe02bd0e9e751cf58ce223a8a6047da8731c150df3f32e8",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeGgrLzZTc3VlRUpFd3RTcWdHeUdyTHRsc0J6M2dMR0FPdkRZcnlDeVZraFlNenExejhVQlRra3ROZUxyaWJnWTRKbHk0dGVqWUFGNDhxV2Q1a2RNN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDMwNjU4CWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMjIKOTN1dkhGZStWMGJ1VkNWWmExRElVREZaVW5EUGZpWTFNSTMvc1MrbTdEYnorbFI2Z0hxT09zZmdEemYxaXNnVlp2MlNra0FZMEZSMTNvM3NoMmdyRHc9PQo=",
-      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.22/Selah-Events-1.4.22-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTFZkRUxpelREeHRkdlZZejdtR2NWZkR3cVhNcldib1hUYkVNRUI0MEZGUmhGUVVZUDNGSS9wbzltRVgrZlZKMkdkOGdvWVdFcmQ5TDZ6YUh0N2lPeTM0akM1aWt5OWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY1MzQ3CWZpbGU6U2VsYWggRXZlbnRzIE1hbmFnZW1lbnQgU2VydmljZXNfMS40LjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMjMKdlVWOGRHVHpJVGhUV1phZEdnYk5jbndNcE1LWnFHZ2ZvMTlkQWRINmdpSWJMMGxTeEVYY1REM3NRRlBqUUdINE5xQ3ZDSGd4b0hScmlKOGVrYm4rQ0E9PQo=",
+      "url": "https://github.com/hostqueenchloe-ship-it/selah-events-android-updates/releases/download/v1.4.23/Selah-Events-1.4.23-x64-setup.exe"
     }
   }
 }
